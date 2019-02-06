@@ -14,3 +14,7 @@ windows 10 64bit
 
 ## 运行方法
 `python weibo.py`
+
+参考资源：
+[JB的Python之旅-爬虫篇-新浪微博内容爬取 - 掘金](https://juejin.im/post/5b3377a0e51d4558c100fc0b)
+[用Python爬取微博数据生成词云图片 - FooFish-Python之禅](https://foofish.net/python-word-cloud.html)
